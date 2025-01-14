@@ -1,0 +1,11 @@
+jupyter
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+seaborn
+tqdm
+xgboost
+ucimlrepo
+pycryptodome
